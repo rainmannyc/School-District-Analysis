@@ -12,11 +12,18 @@ The district summary was affected negatively after we removed the fabricated res
 
 ![FabDisctrictData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/fabdistrictdata.png)
 
+![ReFabDistrictData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/refabdistrictdata.png)
+
 As shown in the images, although the effects were by a small margin, they fabricated data did effect the data negatively. 
 
 #### **School Summary**
 
 The school summary was also affected by the suspected fabricated data. Thomas High School had an overall passing percentage of 91% before the data was cleaned up. However, after the suspected data was removed, their overall passing percentage dropped down significantly to 65%. This also effected them in the rankings going from second place, all the way down to eight, making them the worse charter school in the district. 
+
+![FabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/fabschooldata.png)
+
+
+![ReFabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/refabschooldata.png)
 
 All negative changes as a  result of removing the suspected fabricated reading and math scores from Thomas High School ninth graders. 
 
@@ -54,11 +61,4 @@ Thomas High School is located in the Charter bin. The data affected are as follo
 Pre Revision: 94, 97, 90
 Post Revision: 90, 93, 87
 
-
-
-
-
-**Summary**There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-
-Summary: Summarize four changes in the updated school district analysis after reading the math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
