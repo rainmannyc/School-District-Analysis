@@ -38,7 +38,7 @@ All negative changes as a  result of removing the suspected fabricated reading a
 
 ##### **Revising the data and replacing the ninth grade scores has affected the following:**
 
-######**Math and Reading Scores by Grade:**
+###### **Math and Reading Scores by Grade:**
 
 Pre Revision: Thomas High School Total Number of Students:  1635
 Post Revision: Thomas High School Total Number of Students: 1174
