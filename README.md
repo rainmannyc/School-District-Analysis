@@ -40,33 +40,35 @@ All negative changes as a  result of removing the suspected fabricated reading a
 
 ###### **Math and Reading Scores by Grade:**
 
-Pre Revision: Thomas High School Total Number of Students:  1635
-Post Revision: Thomas High School Total Number of Students: 1174
+*Pre Revision: Thomas High School Total Number of Students:  1635
+
+*Post Revision: Thomas High School Total Number of Students: 1174
+
 The passing score has dropped significantly due to the number of students remaining the same, but the number of students passing has dropped since we removed the 9th graders.
 
 ###### **Scores by Spending:**
 
 Thomas High School figures have also been altered in the spending bin. Their figures in the spending bin “#630-$644” have changed from:
 
-Pre Revision: 73, 84, 63
+*Pre Revision: 73, 84, 63
 
-Post Revision: 67, 77, 56
+*Post Revision: 67, 77, 56
  
 ###### **Scores by School Size:**
 
 Thomas High School is located in the Medium “(1000-2000)” size bin. Removing the ninth graders have changed the data from:
 
-Pre Revision: 94, 97, 91
+*Pre Revision: 94, 97, 91
 
-Post Revision: 88, 91, 85
+*Post Revision: 88, 91, 85
 
 ###### **Scores by School Type:** 
 
 Thomas High School is located in the Charter bin. The data affected are as follows:
 
-Pre Revision: 94, 97, 90
+*Pre Revision: 94, 97, 90
 
-Post Revision: 90, 93, 87
+*Post Revision: 90, 93, 87
 
 #### **Conclusion**
 
