@@ -1,25 +1,27 @@
-#**School District Analysis**
+# **School District Analysis**
 
-##**Overview**
+## **Overview**
 
 The purpose of the analysis stemmed from Maria and her supervisor being notified of evidence that shows academic dishonesty for reading and math grades for Thomas High School ninth graders. Maria has asked us to replace the suspected fabricated scores with “NaNs” while keeping the rest of the data intact. She would then like us to rerun the analysis and write up a report after removing the suspected fabricated data. 
 
-###**Results**
+### **Results**
 
-####**District Summary**
+#### **District Summary**
 
 The district summary was affected negatively after we removed the fabricated results from the data. All fields were affected with the exception of Average Reading Score %. Please see the comparison in the images below:
 
+![FabDisctrictData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/fabdistrictdata.png)
+
 As shown in the images, although the effects were by a small margin, they fabricated data did effect the data negatively. 
 
-####**School Summary**
+#### **School Summary**
 
 The school summary was also affected by the suspected fabricated data. Thomas High School had an overall passing percentage of 91% before the data was cleaned up. However, after the suspected data was removed, their overall passing percentage dropped down significantly to 65%. This also effected them in the rankings going from second place, all the way down to eight, making them the worse charter school in the district. 
 
 All negative changes as a  result of removing the suspected fabricated reading and math scores from Thomas High School ninth graders. 
 
 
-####**The Results**
+#### **The Results**
 
 All negative changes as a  result of removing the suspected fabricated reading and math scores from Thomas High School ninth graders. 
 
