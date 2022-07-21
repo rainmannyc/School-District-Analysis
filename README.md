@@ -10,9 +10,9 @@ The purpose of the analysis stemmed from Maria and her supervisor being notified
 
 The district summary was affected negatively after we removed the fabricated results from the data. All fields were affected with the exception of Average Reading Score %. Please see the comparison in the images below:
 
-![FabDisctrictData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/fabdistrictdata.png)
+![FabDisctrictData](https://github.com/rainmannyc/School_District_Analysis/blob/main/readme_images/fabdistrictdata.png)
 
-![ReFabDistrictData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/refabdistrictdata.png)
+![ReFabDistrictData](https://github.com/rainmannyc/School_District_Analysis/blob/main/readme_images/refabdistrictdata.png)
 
 As shown in the images, although the effects were by a small margin, they fabricated data did effect the data negatively. 
 
@@ -22,12 +22,12 @@ The school summary was also affected by the suspected fabricated data. Thomas Hi
 
 Fabricated School Data:
 
-![FabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/fabschooldata.png)
+![FabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/main/readme_images/fabschooldata.png)
 
 
 Revised School Data:
 
-![ReFabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/a94f1627a189db5f699cc3dc75cd8e9e8c4cb316/refabschooldata.png)
+![ReFabSchoolData](https://github.com/rainmannyc/School_District_Analysis/blob/main/readme_images/refabschooldata.png)
 
 All negative changes as a  result of removing the suspected fabricated reading and math scores from Thomas High School ninth graders. 
 
